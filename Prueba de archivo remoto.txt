@@ -1,0 +1,3 @@
+Cuando querrias agregar un commit remoto en lugar de agregarlo siempre como local¿?
+
+Es evidente que esta es una herramienta unica debido a que se puede estar trabajando en un proyecto con personas diferentes y desde lugares diferentes.
